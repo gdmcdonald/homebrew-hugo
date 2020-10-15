@@ -1,4 +1,4 @@
-class Oldhugo < Formula
+class Hugo < Formula
   desc "Configurable static site generator"
   homepage "https://gohugo.io/"
   url "https://github.com/gohugoio/hugo/archive/v0.54.0.tar.gz"
